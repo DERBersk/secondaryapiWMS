@@ -1,7 +1,7 @@
 from extensions import db
 
 class Material(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(db.String(20), primary_key=True)
     description = db.Column(db.String(100), nullable=False)
     safety_stock = db.Column(db.Float)
     lot_size = db.Column(db.Float)

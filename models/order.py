@@ -1,7 +1,7 @@
 from extensions import db
 
 class Order(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(db.String(20), primary_key=True)
     material_id = db.Column(db.Integer, db.ForeignKey('material.id'), nullable=False)
     supplier_id = db.Column(db.Integer, db.ForeignKey('supplier.id'), nullable=False)
     amount = db.Column(db.Float)

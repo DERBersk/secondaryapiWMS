@@ -1,7 +1,7 @@
 from extensions import db
 
 class Supplier(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(db.String(20), primary_key=True)
     name = db.Column(db.String(100), nullable=False)
     address = db.Column(db.String(250), nullable=True)
     availability = db.Column(db.Boolean, nullable=True)
