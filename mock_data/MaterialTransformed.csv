@@ -1,0 +1,90 @@
+id,safety_stock,lot_size,stock_level,unit,description
+M4063,100,300,99,,SMG-NA-P2
+M6103,100,500,99,,LFP 400
+M4704,100,20,99,,Hard Carbon (PAC-2)
+M4511,100,600,99,,SMG-NA-P2
+M7734,100,18,99,,BM-451B All
+M4163,100,25,99,,Texturecel 30000 P BA
+M2685,100,25,99,,Texturecel 30000 P BA
+M9589,100,12,99,,C-Nergy Super C 45 
+M5819,100,5,99,,"Wickelhülse 3"" L250"
+M3232,100,5,99,,"Wickelhülse 3"" L450"
+M3488,100,5,99,,"Wickelhülse 6"" L250"
+M6490,100,5,99,,"Wickelhülse 6"" L450"
+M7630,100,18,99,,Wickelhülse L700
+M6973,100,18,99,,Wickelhülse L400
+M2404,100,18,99,,Wickelhülse 400mm
+M4783,100,18,99,,Wickelhülse 700mm
+M6036,100,60,99,,Stirnwand mit Stapelnocken
+M8135,100,1,99,,FFB Pouch Cell Standard High Power CT
+M7233,100,1,99,,Stack Standard CT High Power
+M8276,100,23955,99,,Separator - HS7T22 min. witdh 346 mm
+M9406,100,46,99,,Anode Standard CT High Power
+M6351,100,41730,99,,Copper min. width 382 mm
+M1726,100,92,99,,Active Layer High Power
+M8094,100,1,99,,Graphite - SMG-NA-P2
+M8733,100,1,99,,SuperC45
+M7735,100,1,99,,CMC - WALOCEL 30000
+M6983,100,1,99,,NCM622 - BASF
+M7662,100,1,99,,KS6-L
+M4808,100,1,99,,PVdF - SOLEF5140
+M7849,100,1,99,,Elektrolyte - LP572
+M6002,100,1,99,,Cell Mechanics Standard CT
+M1864,100,1,99,,Pouchfolie Standard OST
+M8135,100,1,99,,Nickelbeschichteter Kupfer-Tab_d0.8
+M4043,100,1,99,,Aluminium-Tab_d0.6
+M2140,100,5,99,,Anodenmaterial (Solid content 50%)
+M6461,100,129,99,,Graphit
+M5085,100,141,99,,NMP Cathode
+M7290,100,3,99,,Binder 2 (CMC)
+M6192,100,136,99,,Kathodenmaterial (Solid Content 70%)
+M5328,100,136,99,,Lösemittel (Wasser) - 50%
+M9813,100,5,99,,Leitadditiv 1
+M8873,100,192,99,,NMC
+M8874,100,87,99,,Lösemittel (NMP) - 30%
+M4890,100,5,99,,Binder (PVDF)
+M6101,100,3,99,,Leitadditiv 2
+M8347,100,57,99,,Kupferfolie
+M3726,100,10,99,,Deckelbaugruppe
+M3255,100,10,99,,Can
+M2660,100,34,99,,"Ladungsträger (3"" und 6"" Hülsen)"
+M8803,100,1,99,,Zelltabs
+M3905,100,7,99,,Elektrolyt
+M5916,100,34,99,,Aluminiumfolie
+M1292,100,1,99,,Fixiertape
+M7913,100,12,99,,Pouchfolie
+M9598,100,12,99,,Isolationsfolie
+M4805,100,10,99,,Bottom Retainer
+M1791,100,4,99,,Separator
+M2750,100,10,99,,Blindniete
+M8561,100,10,99,,Klebestreifen
+M5264,100,6000,99,,CU-Foil
+M6016,100,1,99,,Elektrolyt
+M8765,100,500,99,,CU-Foil - Sample Kit
+M1230,100,5000,99,,CU-Foil
+M2644,100,1,99,,Fixing- and Isolationmaterials Standard CT High Power
+M5085,100,1,99,,SuperC65
+M1208,100,90,99,,Active Layer High Power
+M6298,100,31837,99,,Aluminium min. width 378 mm
+M4012,100,45,99,,Cathode Standard CT High Power
+M6785,100,1,99,,Deionized Water Anode
+M9907,100,1,99,,SBR - BM451-B
+M1732,100,7000,99,,CU-Foil
+M2587,100,2000,99,,AL-Foil
+M9793,100,5000,99,,CU-Foil
+M3433,100,89,99,,CU-Foil
+M5800,100,122,99,,CU-Foil
+M3243,100,18,99,,BM-451B
+M2110,100,10,99,,CU-Foil
+M9343,100,72,99,,BM-451B
+M1545,100,36,99,,BM-451B
+M4295,100,18,99,,BM-451B All
+M2767,100,18,99,,ENEOS TRD 104A
+M1388,100,18,99,,SBR-BM-451 B
+M7175,100,18,99,,TRD 104 A
+M7455,100,20,99,,CMC
+M6466,100,100,99,,SMG-NA-P2
+M9449,100,80,99,,SMG-A5
+M7580,100,24,99,,Carbon black
+M8253,100,2,99,,Leitadditiv
+M1202,100,3,99,,Binder 1 (SBR)
