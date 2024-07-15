@@ -15,7 +15,7 @@ def get_orders():
 ###################################################
 # Get for a single Orders
 ###################################################
-@o_bp.route('/<int:supplier_id>', methods=['GET'])
+@o_bp.route('/<string:supplier_id>', methods=['GET'])
 def get_orders_from_supplier(supplier_id):
     orders = Order.query.filter(Order.supplier_id == supplier_id).all()
     return jsonify([o.serialize() for o in orders])
